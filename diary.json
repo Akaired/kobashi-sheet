@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "title": "Diario di Kobashi Uzumaki",
+    "version": 1,
+    "theme": "kobashi_diary"
+  },
+  "chapters": [
+    {
+      "id": "scheda",
+      "tabLabel": "Scheda",
+      "order": 1,
+      "pages": [
+        {
+          "id": "scheda-1",
+          "title": "Dati",
+          "content": [
+            { "type": "h1", "text": "Kobashi Uzumaki" },
+            { "type": "p", "text": "..." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storia",
+      "tabLabel": "Storia",
+      "order": 2,
+      "pages": [
+        {
+          "id": "storia-1",
+          "title": "Origini",
+          "content": [
+            { "type": "h1", "text": "Origini" },
+            { "type": "p", "text": "..." }
+          ]
+        },
+        {
+          "id": "storia-2",
+          "title": "Guerra",
+          "content": [
+            { "type": "h1", "text": "Guerra" },
+            { "type": "p", "text": "..." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conoscenze",
+      "tabLabel": "Conoscenze",
+      "order": 3,
+      "pages": [
+        {
+          "id": "conoscenze-1",
+          "title": "Nomi e volti",
+          "content": [
+            { "type": "h1", "text": "Nomi e volti" },
+            { "type": "list", "items": ["...", "...", "..."] }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obiettivi",
+      "tabLabel": "Obiettivi",
+      "order": 4,
+      "pages": [
+        {
+          "id": "obiettivi-1",
+          "title": "Cosa voglio",
+          "content": [
+            { "type": "h1", "text": "Obiettivi" },
+            { "type": "p", "text": "..." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "tabLabel": "Record",
+      "order": 5,
+      "pages": [
+        {
+          "id": "record-1",
+          "title": "Tracce",
+          "content": [
+            { "type": "h1", "text": "Record" },
+            { "type": "p", "text": "..." }
+          ]
+        }
+      ]
+    }
+  ]
+}
