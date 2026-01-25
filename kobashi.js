@@ -1,5 +1,5 @@
 (async()=>{const mount=document.getElementById("kb-stage");if(!mount)return;if(mount.dataset.kobashiInit==="1")return;mount.dataset.kobashiInit="1";if(mount.querySelector("canvas"))return;
-const W=720,H=720,IMG_A="https://i.imgur.com/WBM4T7S.png",IMG_B="https://i.imgur.com/tFFXneb.png",IMG_PAGE="https://i.imgur.com/mynccVj.png",JSON_URL="./diary.json";
+const W=720,H=720,IMG_A="https://i.imgur.com/WBM4T7S.png",IMG_B="https://i.imgur.com/tFFXneb.png",IMG_PAGE="https://i.imgur.com/mynccVj.png",JSON_URL="https://akaired.github.io/kobashi-sheet/diary.json";
 try{if(document.fonts&&document.fonts.ready)await document.fonts.ready}catch(e){}
 if(typeof PIXI==="undefined"){console.error("PIXI non definito: pixi.js non caricato");return}
 const app=new PIXI.Application();await app.init({width:W,height:H,backgroundAlpha:0,antialias:true,resolution:window.devicePixelRatio||1,autoDensity:true});mount.appendChild(app.canvas);
