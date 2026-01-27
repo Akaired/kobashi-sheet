@@ -20,105 +20,127 @@
             },
             {
               "type": "p",
-              "text": "Kobashi Uzumaki nasce ventisei anni fa da una relazione adultera tra il padre, il Jounin Kazan Uzumaki, e una serva della sua tenuta, Shiori: una relazione intensa e malsana, destinata a degenerare rapidamente. Il tradimento di Kazan, promesso ad una kunoichi del Clan Kamizuru, viene scoperto ed esposto allo scandalo nazionale, compromettendo definitivamente la sua posizione all’interno del Villaggio.\n\nColto alla sprovvista, Kazan viene rintracciato e catturato dagli ANBU Red Ogres tra le macerie fumanti della tenuta Uzumaki, mentre tenta di eliminare Shiori e il neonato Kobashi per cancellare ogni prova della relazione. Shiori riporta ferite gravissime e muore poco dopo, mentre Kobashi sopravvive, senza tuttavia conservare alcun ricordo diretto di quella notte.\n\nKazan viene condannato a morte, ma riesce ad evadere prima dell’esecuzione e viene dichiarato Nukenin. Nel giro di poche ore, Kobashi si ritrova orfano e solo al mondo, venendo affidato alle strutture assistenziali del Villaggio e cresciuto nella rigidità Iwana, ignaro del destino di suo padre.\n\nFin dall’infanzia Kobashi cresce in un clima di costante austerità e competizione per le esigue risorse del Paese della Roccia. Viene bullizzato e umiliato dai coetanei, mentre gli adulti del villaggio tendono a ignorarlo o a trattarlo come un peso. Vive di espedienti e di lavori occasionali, maturando nel tempo un carattere chiuso, diffidente e calcolatore.\n\nKobashi sogna di diventare un ninja, ma i suoi desideri vengono scherniti e ridimensionati: i costi proibitivi di un simile percorso, uniti alle difficoltà di integrazione sociale e allo stigma che accompagna il suo cognome, rendono quel sogno poco più di un’illusione. Cresce quindi in povertà, tra impieghi umili e logoranti, cercando costantemente di sopravvivere e mantenersi.\n\nDurante questo periodo manifesta una crescente instabilità emotiva, accompagnata da incubi ricorrenti e particolarmente violenti: sogni in cui si ritrova immerso in scenari di sangue e morte, spesso senza riuscire a distinguere i volti delle vittime o il motivo della carneficina.\n\nLe cose cambiano durante l’adolescenza, quando la situazione geopolitica precipita e la guerra torna a coinvolgere direttamente il Paese della Roccia. Nel caos delle prime fasi belliche, Kobashi viene a conoscenza della propria origine e scopre di essere figlio di Kazan Uzumaki. Tale rivelazione non provoca in lui il desiderio di ricongiungersi al padre, bensì l’intenzione opposta: rintracciarlo e ucciderlo, considerandolo responsabile della vita di emarginazione e miseria che gli è stata imposta fin dalla nascita.\n\nNel tentativo di abbandonare il villaggio, Kobashi viene però catturato dagli Ōtsutsuki nei sobborghi di Iwagakure e trasferito in una struttura sotterranea legata alle forze Zakiste. Qui viene sottoposto a un processo di “ammaestramento” e condizionamento, venendo utilizzato come manovalanza armata e milizia di basso livello, impiegata in compiti sporchi e logoranti, spesso legati al controllo del territorio e alla sopravvivenza stessa del campo.\n\nCol tempo Kobashi viene inserito in una rete di traffici illegali e attività clandestine, sfruttato come corriere e contrabbandiere tra territori instabili e aree fuori controllo. È in questo contesto che viene inviato anche verso Akagakure, dove entra in contatto con il lato più brutale dell’illegalità: mercati neri, scambi, violenze e criminalità organizzata, imparando a sopravvivere in un mondo privo di regole e pietà.\n\nIn seguito a uno degli ultimi viaggi, Kobashi rientra verso Akagakure trovandola completamente rasa al suolo. Con la rete criminale disgregata e ogni punto di riferimento annientato, sceglie di sparire: torna nel continente celando la propria identità e vivendo per un lungo periodo come un vagabondo, spostandosi di paese in paese, sopravvivendo tramite espedienti, contatti e attività illegali. Per continuare a vivere, Kobashi si adatta a qualunque cosa: truffe, furti, rapine e omicidi mirati, sviluppando un pragmatismo sempre più freddo.\n\nRientra infine a Iwagakure in concomitanza con la crisi interna culminata con l’uccisione del Daimyo. Ufficialmente Kobashi risultava disperso, elemento che gli consente di rientrare senza un’immediata identificazione o condanna certa. Decide quindi di intraprendere nuovamente la via del ninja, dichiarandolo come scelta di fedeltà al Villaggio e volontà di ricostruzione; tuttavia, il suo vero obiettivo rimane personale: ottenere il potere, lo status e gli strumenti necessari per compiere vendetta e chiudere i conti aperti con il proprio passato."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "storia",
-      "tabLabel": "Storia",
-      "order": 2,
-      "pages": [
-        {
-          "id": "storia-1",
-          "title": "Origini",
-          "content": [
-            {
-              "type": "h1",
-              "text": "Origini"
+              "text": "Kobashi Uzumaki nasce ventisei anni fa da una relazione adultera tra il padre, il Jounin Kazan Uzumaki, e una serva della sua tenuta, Shiori: una relazione intensa e malsana, destinata a degenerare rapidamente."
             },
             {
               "type": "p",
-              "text": "..."
-            }
-          ]
-        },
-        {
-          "id": "storia-2",
-          "title": "Guerra",
-          "content": [
-            {
-              "type": "h1",
-              "text": "Guerra"
+              "text": "Il tradimento di Kazan, promesso ad una kunoichi del Clan Kamizuru, viene scoperto ed esposto allo scandalo nazionale, compromettendo definitivamente la sua posizione all’interno del Villaggio."
             },
             {
               "type": "p",
-              "text": "..."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "conoscenze",
-      "tabLabel": "Conoscenze",
-      "order": 3,
-      "pages": [
-        {
-          "id": "conoscenze-1",
-          "title": "Nomi e volti",
-          "content": [
-            {
-              "type": "h1",
-              "text": "Nomi e volti"
-            },
-            {
-              "type": "list",
-              "items": ["...", "...", "..."]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "obiettivi",
-      "tabLabel": "Obiettivi",
-      "order": 4,
-      "pages": [
-        {
-          "id": "obiettivi-1",
-          "title": "Cosa voglio",
-          "content": [
-            {
-              "type": "h1",
-              "text": "Obiettivi"
+              "text": "Colto alla sprovvista, Kazan viene rintracciato e catturato dagli ANBU Red Ogres tra le macerie fumanti della tenuta Uzumaki, mentre tenta di eliminare Shiori e il neonato Kobashi per cancellare ogni prova della relazione."
             },
             {
               "type": "p",
-              "text": "..."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "record",
-      "tabLabel": "Record",
-      "order": 5,
-      "pages": [
-        {
-          "id": "record-1",
-          "title": "Tracce",
-          "content": [
-            {
-              "type": "h1",
-              "text": "Record"
+              "text": "Shiori riporta ferite gravissime e muore poco dopo, mentre Kobashi sopravvive, senza tuttavia conservare alcun ricordo diretto di quella notte."
             },
             {
               "type": "p",
-              "text": "..."
+              "text": "Kazan viene condannato a morte, ma riesce ad evadere prima dell’esecuzione e viene dichiarato Nukenin."
+            },
+            {
+              "type": "p",
+              "text": "Nel giro di poche ore, Kobashi si ritrova orfano e solo al mondo, venendo affidato alle strutture assistenziali del Villaggio e cresciuto nella rigidità Iwana, ignaro del destino di suo padre."
+            },
+            {
+              "type": "p",
+              "text": "Fin dall’infanzia Kobashi cresce in un clima di costante austerità e competizione per le esigue risorse del Paese della Roccia."
+            },
+            {
+              "type": "p",
+              "text": "Viene bullizzato e umiliato dai coetanei, mentre gli adulti del villaggio tendono a ignorarlo o a trattarlo come un peso."
+            },
+            {
+              "type": "p",
+              "text": "Vive di espedienti e di lavori occasionali, maturando nel tempo un carattere chiuso, diffidente e calcolatore."
+            },
+            {
+              "type": "p",
+              "text": "Kobashi sogna di diventare un ninja, ma i suoi desideri vengono scherniti e ridimensionati."
+            },
+            {
+              "type": "p",
+              "text": "I costi proibitivi di un simile percorso, uniti alle difficoltà di integrazione sociale e allo stigma che accompagna il suo cognome, rendono quel sogno poco più di un’illusione."
+            },
+            {
+              "type": "p",
+              "text": "Cresce quindi in povertà, tra impieghi umili e logoranti, cercando costantemente di sopravvivere e mantenersi."
+            },
+            {
+              "type": "p",
+              "text": "Durante questo periodo manifesta una crescente instabilità emotiva, accompagnata da incubi ricorrenti e particolarmente violenti."
+            },
+            {
+              "type": "p",
+              "text": "Sogni in cui si ritrova immerso in scenari di sangue e morte, spesso senza riuscire a distinguere i volti delle vittime o il motivo della carneficina."
+            },
+            {
+              "type": "p",
+              "text": "Le cose cambiano durante l’adolescenza, quando la situazione geopolitica precipita e la guerra torna a coinvolgere direttamente il Paese della Roccia."
+            },
+            {
+              "type": "p",
+              "text": "Nel caos delle prime fasi belliche, Kobashi viene a conoscenza della propria origine e scopre di essere figlio di Kazan Uzumaki."
+            },
+            {
+              "type": "p",
+              "text": "Tale rivelazione non provoca in lui il desiderio di ricongiungersi al padre, bensì l’intenzione opposta: rintracciarlo e ucciderlo."
+            },
+            {
+              "type": "p",
+              "text": "Lo considera responsabile della vita di emarginazione e miseria che gli è stata imposta fin dalla nascita."
+            },
+            {
+              "type": "p",
+              "text": "Nel tentativo di abbandonare il villaggio, Kobashi viene catturato dagli Ōtsutsuki nei sobborghi di Iwagakure."
+            },
+            {
+              "type": "p",
+              "text": "Viene trasferito in una struttura sotterranea legata alle forze Zakiste e sottoposto a un processo di ammaestramento e condizionamento."
+            },
+            {
+              "type": "p",
+              "text": "Utilizzato come manovalanza armata e milizia di basso livello, viene impiegato in compiti sporchi e logoranti."
+            },
+            {
+              "type": "p",
+              "text": "Col tempo entra in una rete di traffici illegali e attività clandestine, operando come corriere e contrabbandiere."
+            },
+            {
+              "type": "p",
+              "text": "È inviato anche verso Akagakure, dove entra in contatto con il lato più brutale dell’illegalità."
+            },
+            {
+              "type": "p",
+              "text": "Mercati neri, violenze e criminalità organizzata gli insegnano a sopravvivere in un mondo privo di regole e pietà."
+            },
+            {
+              "type": "p",
+              "text": "In seguito a uno degli ultimi viaggi, rientra verso Akagakure trovandola completamente rasa al suolo."
+            },
+            {
+              "type": "p",
+              "text": "Con ogni punto di riferimento annientato, sceglie di sparire e tornare nel continente sotto falsa identità."
+            },
+            {
+              "type": "p",
+              "text": "Vive come vagabondo, adattandosi a truffe, furti, rapine e omicidi mirati, sviluppando un pragmatismo sempre più freddo."
+            },
+            {
+              "type": "p",
+              "text": "Rientra infine a Iwagakure durante la crisi culminata con l’uccisione del Daimyo."
+            },
+            {
+              "type": "p",
+              "text": "Ufficialmente disperso, può rientrare senza immediata identificazione."
+            },
+            {
+              "type": "p",
+              "text": "Decide di intraprendere nuovamente la via del ninja, dichiarando fedeltà al Villaggio."
+            },
+            {
+              "type": "p",
+              "text": "Il suo vero obiettivo rimane però personale: ottenere potere, status e mezzi per chiudere i conti con il passato."
             }
           ]
         }
