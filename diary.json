@@ -150,6 +150,16 @@
 	            }
 	          ]
 	        },
+			{
+	          "id": "Kazuma",
+	          "title": "Kazuma",
+	          "content": [
+	            {
+	              "type": "p",
+	              "text": "qui descrizione conoscenza"
+	            }
+	          ]
+	        },
 	        {
 	          "id": "Ren",
 	          "title": "Ren",
