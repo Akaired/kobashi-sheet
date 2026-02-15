@@ -12,7 +12,7 @@
       "pages": [
         {
           "id": "scheda-1",
-          "title": "Kobashi Uzumaki",
+          "title": "Il passato",
           "content": [
             {
               "type": "p",
@@ -73,7 +73,7 @@
 	      "pages": [
 	        {
 	          "id": "scheda-1",
-	          "title": "Kobashi Uzumaki",
+	          "title": "Il presente",
 	          "content": [
 	            {
 	              "type": "p",
